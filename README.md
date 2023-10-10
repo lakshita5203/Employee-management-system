@@ -10,11 +10,11 @@ Features
 ## Prerequisites
 Before you get started, make sure you have the following:
 
-- Java Development Kit (JDK): You'll need Java installed on your computer.
+- **Java Development Kit (JDK)**: You'll need Java installed on your computer.
 
-- Maven: This project uses Maven for building and managing dependencies.
+- **Maven**: This project uses Maven for building and managing dependencies.
 
-- Database: Set up a relational database (e.g., MySQL) and configure the application to connect to it.
+- **Database**: Set up a relational database (e.g., MySQL) and configure the application to connect to it.
 
 ## Getting Started
 **Clone the Repository**: Download the project to your local machine:
@@ -38,4 +38,5 @@ You can interact with the Employee Management System through your web browser or
 4. **PUT /employees/{id}**: Update an employee's information.
 5. **DELETE /employees/{id}**: Delete an employee.
 6. **GET /employees/search**: Search for employees by name or department.
+   
 Use these endpoints to manage your employee records.
