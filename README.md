@@ -7,7 +7,7 @@ Features
 3. **Update**: Modify existing employee information.
 4. **Delete**: Remove employee records.
 5. **Search**: Find employees by name or department.
-##Prerequisites
+## Prerequisites
 Before you get started, make sure you have the following:
 
 - Java Development Kit (JDK): You'll need Java installed on your computer.
@@ -16,7 +16,7 @@ Before you get started, make sure you have the following:
 
 - Database: Set up a relational database (e.g., MySQL) and configure the application to connect to it.
 
-##Getting Started
+## Getting Started
 **Clone the Repository**: Download the project to your local machine:
 ```
 git clone https://github.com/yourusername/employee-management-system.git
@@ -29,7 +29,7 @@ mvn spring-boot:run
 ```
 The application should now be up and running at http://localhost:8080.
 
-##Usage
+## Usage
 You can interact with the Employee Management System through your web browser or an API client like Postman. Here are the available endpoints:
 
 1. **GET /employees**: Retrieve a list of all employees.
